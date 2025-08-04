@@ -1,3 +1,5 @@
+// Script criado com 💚 por Pamella Fraga
+
 function adicionarTarefa() {
   const tarefa = document.getElementById("tarefa").value;
   if (tarefa === "") return;
